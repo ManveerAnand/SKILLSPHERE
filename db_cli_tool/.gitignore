@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Ignore JetBrains IDE settings
 .idea/
 
@@ -5,3 +6,7 @@
 __pycache__/
 *.pyc
 *.pyo
+=======
+.idea
+__pycache__
+>>>>>>> SKILLSPHERE/main
